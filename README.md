@@ -1,4 +1,4 @@
-# UiDigital - Marketing Landing Page
+# [UiDigital - Marketing Landing Page ↗](https://deepak-parmar.github.io/uidigital-landing-page/)
 
 ![](screenshot.png)
 
