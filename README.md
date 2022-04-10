@@ -4,5 +4,8 @@
 
 Made with **Tailwind CSS**
 
-### Designed by **instagram/johnnycreated**:
-https://www.instagram.com/p/CbF2-Tjr4mn/
+### Design by **instagram/johnnycreated**:
+https://www.instagram.com/p/CbF2-Tjr4mn
+
+### Lighthouse Score
+![Lighthouse score](lighthouse-score.png)
