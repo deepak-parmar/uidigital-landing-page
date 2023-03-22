@@ -1,6 +1,6 @@
 # [UiDigital - Marketing Landing Page ↗](https://deepak-parmar.github.io/uidigital-landing-page/)
 
-![landing page screenshot](./images/screenshot.png)
+![landing page screenshot](https://deepak-parmar.github.io/uidigital-landing-page/images/screenshot.png)
 
 Made with **Tailwind CSS**
 
@@ -8,4 +8,4 @@ Made with **Tailwind CSS**
 https://www.instagram.com/p/CbF2-Tjr4mn
 
 ### Lighthouse Score
-![Lighthouse score](./images/lighthouse-score.png)
+![Lighthouse score](https://deepak-parmar.github.io/uidigital-landing-page/images/lighthouse-score.png)
